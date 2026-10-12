@@ -2,7 +2,7 @@ local logger = require '@aicore.modules.logger'
 
 assert(lib.checkDependency('aicore', '1.19.0', true))
 assert(lib.checkDependency('aicore_vehicles', '1.3.1', true))
-lib.versionCheck('0error-scripts/aicore_garages')
+lib.versionCheck('aicore-fivem/aicore_garages')
 
 ---@class ErrorResult
 ---@field code string

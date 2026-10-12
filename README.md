@@ -1,4 +1,4 @@
-![aicore_garages](https://github.com/0error-scripts/aicore_garages/assets/22198949/434b951d-032c-4390-9351-819e2b8cd0cb)
+![aicore_garages](https://github.com/aicore-fivem/aicore_garages/assets/22198949/434b951d-032c-4390-9351-819e2b8cd0cb)
 
 # aicore_garages
 Provides an API to store and retrieve vehicles from various locations around the map. Also includes an optional built-in UI

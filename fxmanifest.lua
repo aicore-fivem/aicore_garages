@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_garages'
 description 'Garage system for Aicore'
-repository 'https://github.com/0error-scripts/aicore_garages'
+repository 'https://github.com/aicore-fivem/aicore_garages'
 version '1.1.4'
 
 ox_lib 'locale'
